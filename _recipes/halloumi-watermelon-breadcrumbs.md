@@ -4,7 +4,7 @@ ref: halloumi-watermelon-breadcrumbs
 image: true
 time: 45
 category: Requirement to Deploy
-tags: [salad, salty, vegetarian, fruit]
+tags: [safer]
 ingredients:
   - name: watermelon
     amount: 750
