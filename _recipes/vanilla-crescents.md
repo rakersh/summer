@@ -4,11 +4,9 @@ ref: vanilla-crescents
 image: true
 time: 60
 category: Requirement to Deploy
-tags:[faster, better]
-  - cookies
-  - sweet
-  - christmas
-  - vegetarian
+tags:
+  - faster
+  - better
 ingredients:
   - name: all purpose flour
     amount: 250
