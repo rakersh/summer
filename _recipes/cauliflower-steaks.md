@@ -6,33 +6,33 @@ time: 30
 category: Strategy to Portfolio
 tags: [vegan, vegetarian, quick, portfolio]
 ingredients:
-  - name: application
-    amount: All
-    unit: 1
+  - name: applications
+    amount: all
+    unit: 
   - name: application owner
-    amount: ½
-    unit: tsp
-  - name: hosting model
-    amount: 2
-    unit: tbsp
-  - name: type
-    amount: 1
+    amount: identify
+    unit: 
+  - name: hosting model/type
+    amount: determine
+    unit: 
+  - name: vendor
+    amount: understand
     unit:
-  - name: black olives, pitted
-    amount: 4
+  - name: business criticality
+    amount: assess
     unit:
-  - name: parsley
-    amount: small
-    unit: handful
-  - name: capers
-    amount: 1
-    unit: tsp
-  - name: red wine vinegar
-    amount: ½
-    unit: tbsp
-  - name: toasted flaked almonds
-    amount: 2
-    unit: tbsp
+  - name: status
+    amount: 
+    unit: 
+  - name: technology stack
+    amount: 
+    unit: 
+  - name: contracts
+    amount: 
+    unit: 
+  - name: licenses
+    amount: 
+    unit: 
 ---
 
 If there is one thing you should start with today...than it would be: setup an application register to manage the life cycle of all applications. 
