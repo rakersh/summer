@@ -4,7 +4,7 @@ ref: salmon-burger
 image: true
 time: 45
 category: Detect to Correct
-tags: [fish, burger]
+tags: [safer]
 ingredients:
   - name: salmon, drained and flaked
     amount: 7.5
