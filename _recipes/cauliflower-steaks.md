@@ -4,7 +4,7 @@ ref: cauliflower-steaks
 image: true
 time: 30
 category: Strategy to Portfolio
-tags: [vegan, vegetarian, quick, portfolio]
+tags: [cheaper, better, safer]
 ingredients:
   - name: applications
     amount: all
