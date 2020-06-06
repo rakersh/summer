@@ -4,7 +4,7 @@ ref: strawberry-ice-cream
 image: true
 time: 30
 category: Detect to Correct
-tags: [sweet, cold]
+tags: [cheaper, safer, better]
 ingredients:
   - name: punnet strawberries
     amount: 400
