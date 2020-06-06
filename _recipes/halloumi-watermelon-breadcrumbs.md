@@ -1,9 +1,9 @@
 ---
-title: 'Griddled halloumi with watermelon & caper breadcrumbs'
+title: 'Security Testing'
 ref: halloumi-watermelon-breadcrumbs
 image: true
 time: 45
-category: dinner
+category: Requirement to Deploy
 tags: [salad, salty, vegetarian, fruit]
 ingredients:
   - name: watermelon
