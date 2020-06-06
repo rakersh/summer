@@ -4,7 +4,7 @@ ref: vanilla-crescents
 image: true
 time: 60
 category: Requirement to Deploy
-tags:
+tags:[faster, better]
   - cookies
   - sweet
   - christmas
