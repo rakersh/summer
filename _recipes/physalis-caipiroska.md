@@ -1,9 +1,9 @@
 ---
-title: 'Lime, physalis and elderflower caipiroska'
+title: 'Self Service Portal'
 ref: physalis-caipiroska
 image: true
 time: 10
-category: drinks
+category: Request to Fulfill
 tags: [cold, fruit, vegetarian, alcohol, cocktail]
 ingredients:
   -
