@@ -1,5 +1,5 @@
 ---
-title: 'Maintain Application Portfolio'
+title: 'Service/Product Portfolio'
 ref: cauliflower-steaks
 image: true
 time: 30
