@@ -4,7 +4,7 @@ ref: gin-tonic-popsicle
 image: true
 time: 5
 category: Requirement to Deploy
-tags: [sweet, alcohol, dessert, cold]
+tags: [better, faster]
 ingredients:
   - name: cucumber
     amount: 6
