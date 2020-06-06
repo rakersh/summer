@@ -1,9 +1,9 @@
 ---
-title: Austrian vanilla crescents
+title: Agile Backlog Management
 ref: vanilla-crescents
 image: true
 time: 60
-category: snacks
+category: Requirement to Deploy
 tags:
   - cookies
   - sweet
