@@ -1,9 +1,9 @@
 ---
-title: 'Salmon burger'
+title: 'Security Monitoring'
 ref: salmon-burger
 image: true
 time: 45
-category: lunch
+category: Detect to Correct
 tags: [fish, burger]
 ingredients:
   - name: salmon, drained and flaked
