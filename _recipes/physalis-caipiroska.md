@@ -4,7 +4,7 @@ ref: physalis-caipiroska
 image: true
 time: 10
 category: Request to Fulfill
-tags: [cold, fruit, vegetarian, alcohol, cocktail]
+tags: [better, faster]
 ingredients:
   -
     name: vodka
