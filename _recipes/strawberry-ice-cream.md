@@ -1,9 +1,9 @@
 ---
-title: 'Easy strawberry ice cream'
+title: 'CMDB'
 ref: strawberry-ice-cream
 image: true
 time: 30
-category: snacks
+category: Detect to Correct
 tags: [sweet, cold]
 ingredients:
   - name: punnet strawberries
