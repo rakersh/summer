@@ -35,9 +35,9 @@ compress_html:
 dark_theme: false
 
 # Site meta
-title: Summer
-tagline: 'Delicious & healthy recipes'
-description: 'A simple Jekyll theme with a photo sidebar.'
+title: IT4IT
+tagline: 'Designed for Managing Digital'
+description: 'Manage the new digital ecosystem.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
 url: https://connor-baer.github.io
 baseurl: /summer
@@ -47,8 +47,8 @@ image: index-large.jpg
 logo: /assets/icons/apple-icon-144x144.png
 
 author:
-  name: Connor Bär
-  bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
+  name: Rob Akershoek
+  bio: Hi, my name is Rob. I hope I can help you in your digital journey
   image: author
   url: https://connorbaer.co
   email: hello@connorbaer.co
