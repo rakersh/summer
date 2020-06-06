@@ -1,21 +1,21 @@
 ---
-title: 'Cauliflower steaks with roasted red pepper & olive salsa'
-ref: cauliflower-steaks
+title: 'Maintain Application Portfolio'
+ref: application-portfolio
 image: true
 time: 30
-category: lunch
-tags: [vegan, vegetarian, quick]
+category: Strategy to Portfolio
+tags: [vegan, vegetarian, quick, portfolio]
 ingredients:
-  - name: cauliflower
-    amount: 1
-    unit:
-  - name: smoked paprika
+  - name: application
+    amount: All
+    unit: 1
+  - name: application owner
     amount: ½
     unit: tsp
-  - name: olive oil
+  - name: hosting model
     amount: 2
     unit: tbsp
-  - name: roasted red pepper
+  - name: type
     amount: 1
     unit:
   - name: black olives, pitted
