@@ -6,25 +6,25 @@ time: 30
 category: Strategy to Portfolio
 tags: [cheaper, better, safer]
 ingredients:
-  - name: applications
-    amount: all
-    unit: 
-  - name: application owner
-    amount: identify
-    unit: 
-  - name: hosting model/type
-    amount: determine
-    unit: 
-  - name: vendor
-    amount: understand
-    unit:
-  - name: business criticality
-    amount: assess
-    unit:
-  - name: status
+  - name: services / product & applications
     amount: 
     unit: 
-  - name: technology stack
+  - name: technology life management
+    amount: 
+    unit: 
+  - name: service assessments/reviews
+    amount: 
+    unit: 
+  - name: vendor
+    amount: improvement opportunities
+    unit:
+  - name: roadmap
+    amount: 
+    unit:
+  - name: application rationalization
+    amount: 
+    unit: 
+  - name: vendors and contracts
     amount: 
     unit: 
   - name: contracts
