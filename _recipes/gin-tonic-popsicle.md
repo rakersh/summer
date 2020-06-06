@@ -1,9 +1,9 @@
 ---
-title: 'Gin & tonic ice lollies'
+title: 'CI/CD Pipeline'
 ref: gin-tonic-popsicle
 image: true
 time: 5
-category: snacks
+category: Requirement to Deploy
 tags: [sweet, alcohol, dessert, cold]
 ingredients:
   - name: cucumber
