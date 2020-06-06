@@ -56,8 +56,6 @@ exclude: true
           <input class="searchbar-checkbox js-duration" type="checkbox" id="twenty-minutes" value="20">
           <span class="searchbar-button">Easier</span>
         </label>
-      </fieldset>
-      <fieldset class="searchbar-group">
         <label for="vegetarian">
           <input class="searchbar-checkbox js-meat" type="checkbox" id="vegetarian" value="vegetarian">
           <span class="searchbar-button">Hapier</span>
@@ -71,21 +69,7 @@ exclude: true
           <span class="searchbar-button">Fish</span>
         </label>
       </fieldset>
-      <fieldset class="searchbar-group">
-        <label for="asian">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="asian" value="asian">
-          <span class="searchbar-button">Asian</span>
-        </label>
-        <label for="italian">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="italian" value="italian">
-          <span class="searchbar-button">Italian</span>
-        </label>
-        <label for="latin-american">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="latin-american" value="latin-american">
-          <span class="searchbar-button">Latin American</span>
-        </label>
-      </fieldset>
-    </form>
+   </form>
 
     <ul class="list">
       {% assign recipes = site.recipes | where: "lang", page.lang %}
