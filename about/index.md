@@ -5,17 +5,21 @@ lang: en
 ref: about
 ---
 
-> Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+> Hey there! The IT4IT standard from The Open Group is there to help and guide you in your digital journey and realizing a new digital operating model. Have fun!
+Because we can make IT better, faster, cheaper, safer and more fun.
 
-## Setup
+## Next steps
 
-Some fun facts about the setup of this project include:
+Some next steps you should take:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io), an amazing code editor
-* Designed and developed while listening to music like [Ludovico Einaudi](https://open.spotify.com/track/6sVuwzZ4MPsviUE8wfw2n1)
+* Listen to my [IT4IT song](https://www.youtube.com/watch?v=0JcbRzXSA8Q&t=6s)
+* Create a target IT operating model combining IT4IT, ITIL, Agile Development and DevOps
+* Understand your current IT management landscape
+* Create a target model for your entire toolchain
+* From more information see the [IT4IT Forum web site](https://www.opengroup.org/it4it)
+* ...
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/madebyconnor/summer/issues/new) or [ask me on Twitter](https://twitter.com/connor_baer).
 
-Thanks for reading!
+Have questions or suggestions? Feel free to contact me [on Linkedin](https://www.linkedin.com/in/robakershoek/).
+
+Thanks!
