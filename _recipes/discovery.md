@@ -1,6 +1,6 @@
 ---
 title: 'Discovery'
-ref: cauliflower-steaks
+ref: pancakes
 image: true
 time: 30
 category: Detect to Correct
