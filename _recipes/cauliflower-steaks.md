@@ -3,8 +3,8 @@ title: 'Service/Product Portfolio'
 ref: cauliflower-steaks
 image: true
 time: 30
-category: Strategy to Portfolio
-tags: [cheaper, better, safer]
+category: strategy
+tags: [cheaper, better, safer, strategy]
 ingredients:
   - name: services / product & applications
     amount: 
