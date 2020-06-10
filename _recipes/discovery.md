@@ -1,6 +1,6 @@
 ---
 title: 'Discovery'
-ref: pancakes
+ref: discovery
 image: true
 time: 30
 category: Detect to Correct
