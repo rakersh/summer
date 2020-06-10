@@ -1,36 +1,27 @@
 ---
-title: 'Service/Product Portfolio'
-ref: cauliflower-steaks
+title: 'Test Automation'
+ref: test-management
 image: true
 time: 30
-category: Strategy to Portfolio
-tags: [cheaper, better, safer]
+category: Requirement to Deploy
+tags: [cheaper]
 ingredients:
-  - name: services / product & applications
+  - name: setup service / application portfolio
     amount: 
     unit: 
-  - name: technology life management
+  - name: define tagging policies
     amount: 
     unit: 
-  - name: service assessments/reviews
+  - name: tag resources at time of provisioning
     amount: 
     unit: 
   - name: vendor
-    amount: improvement opportunities
+    amount: linking cloud resources to the CMDB
     unit:
-  - name: roadmap
+  - name: collect consumption & cost data
     amount: 
     unit:
-  - name: application rationalization
-    amount: 
-    unit: 
-  - name: vendors and contracts
-    amount: 
-    unit: 
-  - name: contracts
-    amount: 
-    unit: 
-  - name: licenses
+  - name: link consumption & cost data to services and applications
     amount: 
     unit: 
 ---
@@ -47,4 +38,4 @@ Preparation:
 
 ---
 
-_From [BBC Good Food](https://www.bbcgoodfood.com/recipes/cauliflower-steaks-roasted-red-pepper-olive-salsa)._
+_From [IT$IT](https://https://www.opengroup.org/it4it)._
