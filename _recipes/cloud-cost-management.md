@@ -3,7 +3,7 @@ title: 'Cloud Cost Management'
 ref: cloud-cost-management
 image: true
 time: 15
-category: Supporting Capabilities
+category: 'supporting capabilities'
 tags: [cheaper]
 ingredients:
   - name: setup service / application portfolio
