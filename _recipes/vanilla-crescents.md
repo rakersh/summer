@@ -3,7 +3,7 @@ title: Agile Backlog Management
 ref: vanilla-crescents
 image: true
 time: 60
-category: Requirement to Deploy
+category: 'requirement to deploy'
 tags:
   - faster
   - better
