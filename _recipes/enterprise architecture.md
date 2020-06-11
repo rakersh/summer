@@ -4,7 +4,7 @@ ref: enterprise-architecture
 image: true
 time: 30
 category: 'strategy to portfolio'
-tags: [cheaper, better, safer]
+tags: [better, safer]
 ingredients:
   - name: services / product & applications
     amount: 
