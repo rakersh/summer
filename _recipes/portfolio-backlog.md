@@ -3,8 +3,8 @@ title: 'Portfolio Backlog'
 ref: portfolio-backlog
 image: true
 time: 30
-category: Portfolio Backlog
-tags: [cheaper]
+category: 'strategy to portfolio'
+tags: [cheaper, better]
 ingredients:
   - name: define value streams and capabilities
     amount: 
