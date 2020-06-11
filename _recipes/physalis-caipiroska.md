@@ -4,7 +4,7 @@ ref: physalis-caipiroska
 image: true
 time: 10
 category: 'request to fulfill'
-tags: [better, faster]
+tags: [easier, happier, faster]
 ingredients:
   -
     name: vodka
