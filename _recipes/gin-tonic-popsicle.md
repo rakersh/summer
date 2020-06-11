@@ -3,7 +3,7 @@ title: 'CI/CD Pipeline'
 ref: gin-tonic-popsicle
 image: true
 time: 5
-category: Requirement to Deploy
+category: 'requirement to deploy'
 tags: [better, faster]
 ingredients:
   - name: cucumber
