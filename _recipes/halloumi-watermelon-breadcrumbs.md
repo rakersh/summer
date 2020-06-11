@@ -3,7 +3,7 @@ title: 'Security Testing'
 ref: halloumi-watermelon-breadcrumbs
 image: true
 time: 45
-category: Requirement to Deploy
+category: 'requirement to deploy'
 tags: [safer]
 ingredients:
   - name: watermelon
