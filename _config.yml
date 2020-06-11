@@ -38,7 +38,7 @@ dark_theme: false
 title: IT4IT
 tagline: 'Recipes for Managing Digital'
 description: 'Manage the new digital ecosystem.'
-keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
+keywords: 'IT4IT, DevOps, Continuous Delivery, ITIL, Digital Transformation'
 url: https://connor-baer.github.io
 baseurl: /summer
 assets: /assets
@@ -50,19 +50,20 @@ author:
   name: Rob Akershoek
   bio: Hi, my name is Rob. I hope I can help you in your digital journey
   image: author
-  url: https://connorbaer.co
-  email: hello@connorbaer.co
-  twitter: connor_baer
+  url: https://www.opengroup.org/it4it
+  email: rob.akershoek@gmail.com
+  twitter: RobAkershoek
 
 social:
-  twitter: https://twitter.com/connor_baer
-  instagram: https://instagram.com/connor_baer
-  github: https://github.com/connor-baer/summer
+  twitter: https://twitter.com/RobAkershoek
+  instagram: 
+  github: https://github.com/rakersh/summer
+  linkedin: https://www.linkedin.com/in/robakershoek/
 
 version: 2.0.0
 
 github:
-  repo: https://github.com/connor-baer/summer
+  repo: https://github.com/rakersh/summer
 
 # Integrations
 # typekit:              fcv7rfe
@@ -77,8 +78,8 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  GitHub: https://github.com/connor-baer/summer
-  Download: https://github.com/connor-baer/summer/archive/gh-pages.zip
+  GitHub: https://github.com/rakersh/summer
+  Download: https://github.com/rakersh/summer/archive/gh-pages.zip
 
 collections:
   recipes:
