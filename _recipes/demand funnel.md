@@ -1,6 +1,6 @@
 ---
-title: 'Service/Product Portfolio'
-ref: cauliflower-steaks
+title: 'Demand management'
+ref: demand
 image: true
 time: 30
 category: 'strategy to portfolio'

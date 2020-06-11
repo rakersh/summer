@@ -1,6 +1,6 @@
 ---
-title: 'Service/Product Portfolio'
-ref: cauliflower-steaks
+title: 'Enterprise Architecture'
+ref: enterprise-architecture
 image: true
 time: 30
 category: 'strategy to portfolio'
@@ -35,7 +35,7 @@ ingredients:
     unit: 
 ---
 
-If there is one thing you should start with today...than it would be: setup an application register to manage the life cycle of all applications. 
+Implement an Enterprise Architecture capability fully integrated with different data source such as the CMDB.
 
 Application portfolio management is maybe an outdated concept, we should call these:
 - Services
