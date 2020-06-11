@@ -4,7 +4,7 @@ ref: skills
 image: true
 time: 45
 category: 'supporting capabilities'
-tags: [cheaper]
+tags: [happier, better]
 ingredients:
   - name: setup service / application portfolio
     amount: 

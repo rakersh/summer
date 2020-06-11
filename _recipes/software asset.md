@@ -4,7 +4,7 @@ ref: software
 image: true
 time: 45
 category: 'supporting capabilities'
-tags: [cheaper]
+tags: [cheaper, safer]
 ingredients:
   - name: setup service / application portfolio
     amount: 

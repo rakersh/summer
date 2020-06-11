@@ -4,7 +4,7 @@ ref: risk
 image: true
 time: 120
 category: 'supporting capabilities'
-tags: [cheaper]
+tags: [safer, better]
 ingredients:
   - name: setup service / application portfolio
     amount: 
