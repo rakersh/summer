@@ -4,7 +4,7 @@ ref: release
 image: true
 time: 30
 category: 'requirement to deploy'
-tags: [cheaper]
+tags: [faster, better]
 ingredients:
   - name: setup service / application portfolio
     amount: 
