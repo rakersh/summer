@@ -3,7 +3,7 @@ title: 'Test Automation'
 ref: test-management
 image: true
 time: 30
-category: 'Requirement to Deploy'
+category: 'requirement to deploy'
 tags: [cheaper]
 ingredients:
   - name: setup service / application portfolio
