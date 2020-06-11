@@ -3,7 +3,7 @@ title: 'Discovery'
 ref: discovery
 image: true
 time: 30
-category: Detect to Correct
+category: 'detect to correct'
 tags: [better, safer]
 ingredients:
   - name: services / product & applications
