@@ -4,7 +4,7 @@ ref: test-management
 image: true
 time: 30
 category: 'requirement to deploy'
-tags: [cheaper]
+tags: [better, safer]
 ingredients:
   - name: setup service / application portfolio
     amount: 

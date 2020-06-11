@@ -4,7 +4,7 @@ ref: selfhelp
 image: true
 time: 45
 category: 'detect to correct'
-tags: [safer]
+tags: [easier, happier]
 ingredients:
   - name: salmon, drained and flaked
     amount: 7.5
