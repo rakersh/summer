@@ -1,5 +1,5 @@
 ---
-title: 'Deployment/Fulfillment Automation'
+title: 'Deployment/ Fulfillment Automation'
 ref: fulfillment
 image: true
 time: 10
