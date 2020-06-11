@@ -3,7 +3,7 @@ title: 'Security Monitoring'
 ref: salmon-burger
 image: true
 time: 45
-category: Detect to Correct
+category: 'detect to correct'
 tags: [safer]
 ingredients:
   - name: salmon, drained and flaked
