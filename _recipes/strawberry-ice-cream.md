@@ -3,7 +3,7 @@ title: 'CMDB'
 ref: strawberry-ice-cream
 image: true
 time: 30
-category: Detect to Correct
+category: 'detect to correct'
 tags: [cheaper, safer, better]
 ingredients:
   - name: punnet strawberries
